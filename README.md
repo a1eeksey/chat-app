@@ -10,7 +10,8 @@ npm install
 client - npm run serve
 server - npm run dev
 
-
+```
 ### Compiles and minifies for production
 ```
 npm run build
+```
