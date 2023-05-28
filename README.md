@@ -5,18 +5,12 @@ The backend server, implemented in Express, handles the room management, user au
 
 On the frontend, Vue.js is employed to create a responsive and interactive user interface. The application supports the creation of multiple rooms, allowing users to join specific rooms to engage in conversations. The UI is designed to be user-friendly and visually appealing, providing a seamless and enjoyable chatting experience.
 
-## Project setup
+## server
 ```
-npm install
+npm i
+npm run dev
 ```
-
-### Compiles and hot-reloads for development
+## client
 ```
-client - npm run serve
-server - npm run dev
-
-```
-### Compiles and minifies for production
-```
-npm run build
-```
+npm i
+npm run serve
