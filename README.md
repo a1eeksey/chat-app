@@ -1,5 +1,3 @@
-# chat-main
-
 # About
 The backend server, implemented in Express, handles the room management, user authentication, and message routing. It utilizes websockets to establish bi-directional communication channels with connected clients. When a user sends a message, the server broadcasts it to all users in the same room, ensuring real-time message delivery.
 
